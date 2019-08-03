@@ -5,6 +5,7 @@
 
 <hr>
 
+GET CUSTOMERS: <a href="api/customers">Link</a>
 
 </body>
 </html>
